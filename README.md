@@ -1,4 +1,4 @@
-# Bank_TermDeposit_Telemarketing_CustomerSubscriptionPrediction
+# Bank Term Deposit Telemarketing Campaign Customer Subscription Prediction
 
 Customer outreach is a critical component for the future development, expansion and long-term success of a business. In the financial services industry, if banks were able to foresee the impact of their marketing campaigns, they could gain valuable insight into optimizing their customer targeting strategies. Based on the dataset about a Portuguese bank's telemarketing campaign, we analyze phone calls to customers in order to predict whether the customer would subscribe to the term deposit following the call. Through data mining, we can increase the effectiveness of customer outreach approaches, such as optimizing the timing, frequency and channels of outreach for different types of customers, and pursue future calls that will more likely lead to a subscription of the term deposit.
 
